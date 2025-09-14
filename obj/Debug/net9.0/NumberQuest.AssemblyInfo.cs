@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberQuest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bd7acc0b5eb73f757babb011df768c8537cf0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberQuest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberQuest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
