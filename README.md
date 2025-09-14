@@ -28,7 +28,6 @@ dotnet run
 ```
 ---
 
-### Start the app
 ```bash
 #===================== Number Quest =====================#
     1. New Game (Guess the Program’s Number)
