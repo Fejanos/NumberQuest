@@ -1,14 +1,14 @@
 [
   {
-    "PlayerName": "John",
-    "SecretNumber": 77,
-    "Attempts": 5,
-    "PlayedAt": "2025-09-14T16:18:34.4009405+02:00"
+    "PlayerName": "Alice",
+    "SecretNumber": 63,
+    "Attempts": 3,
+    "PlayedAt": "2025-09-13T18:23:45"
   },
   {
     "PlayerName": "Bob",
-    "SecretNumber": 77,
-    "Attempts": 7,
-    "PlayedAt": "2025-09-14T16:18:50.1982758+02:00"
+    "SecretNumber": 42,
+    "Attempts": 5,
+    "PlayedAt": "2025-09-13T18:45:12"
   }
 ]
