@@ -1,4 +1,6 @@
-public class GameResult
+namespace NumberQuest.Model;
+
+public class GameModel
 {
     public string PlayerName { get; set; } = string.Empty;
     public int SecretNumber { get; set; }
